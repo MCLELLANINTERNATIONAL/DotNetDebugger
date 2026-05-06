@@ -12,3 +12,4 @@
 /Users/kimbrown/Desktop/DotNetDebugger/obj/Debug/net10.0/DotNetDebugger.pdb
 /Users/kimbrown/Desktop/DotNetDebugger/obj/Debug/net10.0/DotNetDebugger.genruntimeconfig.cache
 /Users/kimbrown/Desktop/DotNetDebugger/obj/Debug/net10.0/ref/DotNetDebugger.dll
+/Users/kimbrown/Desktop/DotNetDebugger/obj/Debug/net10.0/DotNetDebugger.sourcelink.json
