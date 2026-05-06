@@ -1,0 +1,14 @@
+/Users/kimbrown/Desktop/DotNetDebugger/bin/Debug/net10.0/DotNetDebugger
+/Users/kimbrown/Desktop/DotNetDebugger/bin/Debug/net10.0/DotNetDebugger.deps.json
+/Users/kimbrown/Desktop/DotNetDebugger/bin/Debug/net10.0/DotNetDebugger.runtimeconfig.json
+/Users/kimbrown/Desktop/DotNetDebugger/bin/Debug/net10.0/DotNetDebugger.dll
+/Users/kimbrown/Desktop/DotNetDebugger/bin/Debug/net10.0/DotNetDebugger.pdb
+/Users/kimbrown/Desktop/DotNetDebugger/obj/Debug/net10.0/DotNetDebugger.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kimbrown/Desktop/DotNetDebugger/obj/Debug/net10.0/DotNetDebugger.AssemblyInfoInputs.cache
+/Users/kimbrown/Desktop/DotNetDebugger/obj/Debug/net10.0/DotNetDebugger.AssemblyInfo.cs
+/Users/kimbrown/Desktop/DotNetDebugger/obj/Debug/net10.0/DotNetDebugger.csproj.CoreCompileInputs.cache
+/Users/kimbrown/Desktop/DotNetDebugger/obj/Debug/net10.0/DotNetDebugger.dll
+/Users/kimbrown/Desktop/DotNetDebugger/obj/Debug/net10.0/refint/DotNetDebugger.dll
+/Users/kimbrown/Desktop/DotNetDebugger/obj/Debug/net10.0/DotNetDebugger.pdb
+/Users/kimbrown/Desktop/DotNetDebugger/obj/Debug/net10.0/DotNetDebugger.genruntimeconfig.cache
+/Users/kimbrown/Desktop/DotNetDebugger/obj/Debug/net10.0/ref/DotNetDebugger.dll
